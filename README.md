@@ -162,7 +162,7 @@ jupyter notebook
 
 
 
-B.Tech Computer Science Engineering
+Diploma - Artificial Intelligence & Machine Learning 
 
 
 
